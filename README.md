@@ -103,6 +103,30 @@ The program will display the tweet texts matching your query and also export the
 
 ---
 
-**Project guide (pt-br):** [Guide (PDF)](./pdf/guide.pdf)
+## 📦 Large File Handling (Git LFS)
+
+> ⚠️ The `corpus.csv` file is tracked using [Git LFS (Large File Storage)](https://git-lfs.github.com).
+
+To properly clone and run this project, make sure you have Git LFS installed:
+
+```bash
+# One-time setup (if not yet installed)
+git lfs install
+
+# Clone the repository (LFS files will be downloaded automatically)
+git clone <repository-url>
+```
+
+If you cloned the repository before installing Git LFS, run:
+
+```bash
+git lfs pull
+```
+
+This ensures the `corpus.csv` file is correctly downloaded and available.
+
+---
+
+> **Project guide (pt-br):** [Guide (PDF)](./pdf/guide.pdf)
 
 ---

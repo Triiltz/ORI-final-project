@@ -9,7 +9,6 @@
 
 # Exported or generated files
 exporta.csv
-corpus.csv
 # OS-specific files
 .DS_Store
 Thumbs.db
