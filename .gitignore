@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+*.out
+*.exe
+
+# Backup files
+*~
+*.bak
+
+# Exported or generated files
+exporta.csv
+corpus.csv
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
