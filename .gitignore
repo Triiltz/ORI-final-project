@@ -2,7 +2,8 @@
 *.o
 *.out
 *.exe
-
+*.bin
+main
 # Backup files
 *~
 *.bak
